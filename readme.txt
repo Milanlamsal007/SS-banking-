@@ -31,5 +31,3 @@ Admin
 user: admin
 pass: admin123
 
-****** www.campcodes.com ******
-Subcribe my You tube Channel **** SerBermz ****
